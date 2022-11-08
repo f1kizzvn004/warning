@@ -4,7 +4,7 @@ body{
   }
   h1{
     position: fixed;
-    top: 50%;
+    top: 80%;
     left: 10;
     right: 0;
     width: 100%;
@@ -44,7 +44,7 @@ body{
     margin-top: 2em;
     font-weight: 450;
     position: fixed;
-    top: 50%;
+    top: 70%;
     left: 0;
     width: 100%;
     text-align: center;
